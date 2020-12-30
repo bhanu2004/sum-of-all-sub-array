@@ -1,0 +1,1 @@
+# sum-of-all-sub-array
